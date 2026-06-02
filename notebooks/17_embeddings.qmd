@@ -1,0 +1,6 @@
+---
+title: Embeddings and Dimension Reduction
+jupyter: gds
+---
+
+{{< lipsum >}}

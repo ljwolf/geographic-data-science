@@ -1,0 +1,6 @@
+---
+title: Data Scientific Thinking for Geographers
+jupyter: gds
+---
+
+{{< lipsum >}}

@@ -1,5 +1,5 @@
 ---
-title: Choropleth Mapping
+title: Geovisualization
 jupyter: gds
 ---
 

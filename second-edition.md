@@ -1,11 +1,15 @@
 ---
-title: Geographic Data Science
-subtitle: A Second Edition
-author: Sergio J. Rey, Daniel Arribas-Bel, and Levi John Wolf
+title: "Geographic Data Science"
+subtitle: "A Second Edition"
+author: "Sergio J. Rey, Daniel Arribas-Bel, and Levi John Wolf"
 date: today
 format:
   html: 
     theme: litera
+    self-contained: true
+    embed-resources: true
+  pdf:
+    pdf-engine: xelatex
 ---
 
 ## Introduction
@@ -16,39 +20,52 @@ In terms of general approach, we would tend to hide a bit more of the code gener
 This fits more clearly into the portfolio of the *Statistical Science* series, since it will be revised to be more general/less about the use of *Python* as an integrated learning environment. This will also make the text more general, but retain its legibility to the largest computing language for data science. 
 
 For us to do this, we'd like to know:
+
 - What, exactly is our word limit/page limit? 
 - How are the images/tables assessed, and is it as a single image or facets each count as one image? 
 - Can we use Tufte margin notes? If we can hack it into Krantz, would it be allowed?
 - Can we drop *In Python* from the title? If not, can we replace it with a subtitle, "with applications in Python?"
 
+{{< pagebreak >}}
+
 ## New Table of Contents
 
-★ means new or substantially revised chapter
+\* *means new or substantially revised chapter*
+
 **Section I: Representation**
+
 1. Geographic Thinking for Data Scientists
-2. Statistical Thinking for Geographers ★
+2. Statistical Thinking for Geographers \*
 3. Spatial Data
-4. Spatial Queries and Data Processing ★
+4. Spatial Queries and Data Processing \*
 5. Spatial Graphs
-6. Geovisualiation ★
+6. Geovisualiation \*
+
 **Section II: Exploration**
+
 7. Global Autocorrelation
 8. Local Autocorrelation
-9. Multivariate Autocorrelation ★
+9. Multivariate Autocorrelation \*
 10. Spatial Disparity (beyond Autocorrelation)
-11. So you've found Autocorrelation, now what? ★
+11. So you've found Autocorrelation, now what? \*
+
 **Section III: Estimation**
+
 12. Spatial Regression
-13. Beyond Regression ★
-14. Local Learning ★
-15. Spatial Interaction Modelling ★
+13. Beyond Regression \*
+14. Local Learning \*
+15. Spatial Interaction Modelling \*
 16. Clustering and Regionalization
-17. Embeddings and Dimension Reduction ★
+17. Embeddings and Dimension Reduction \*
+
 **Section IV: Refinement**
-18. Model Fit and Spatial Model Assessment ★
-19. Crossvalidating Geographical Models ★
-20. Spatial Feature Engineering ★
-21. Simulating Geographical Systems ★
+
+18. Model Fit and Spatial Model Assessment \*
+19. Crossvalidating Geographical Models \*
+20. Spatial Feature Engineering \*
+21. Simulating Geographical Systems \*
+
+{{< pagebreak >}}
 
 ## Annotated Table of Contents
 

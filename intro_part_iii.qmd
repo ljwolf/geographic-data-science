@@ -2,7 +2,7 @@
 title: "Part III — Advanced Topics"
 ---
 
-## Overview
+## Overview {.unumbered}
 
 This final part of the book shows how the ideas, tools, and building blocks explored in the previous two parts can be put together in a coherent way. We show this using a few specific applications. Part of our intention here is to take traditional themes in data science (un/supervised learning, feature engineering), and to "sprinkle a bit of geo-dust" to show how the way of thinking we have advanced in so far in this book can be used to obtain further insight beyond what traditional methods offer. The other part of our intention here is to show examples of *genuinely geographic* data science. Together, this will make the rest of the knowledge in the book useful for most readers.
 

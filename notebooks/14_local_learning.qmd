@@ -1,0 +1,6 @@
+---
+title: Local Learning: Everybody gets a model!
+jupyter: gds
+---
+
+{{< lipsum >}}

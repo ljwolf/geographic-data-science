@@ -2,7 +2,7 @@
 title: "Part I — Building Blocks"
 ---
 
-## Overview
+## Overview {.unnumbered}
 
 Geography is a longstanding academic discipline, so why do we need fancy new concepts, methods, and algorithms? Indeed, why is this book about geographic *data science* and not some other kind of quantitative study in geography, such as *geocomputation* or *Geographic Information Science*? This section addresses these questions by outlining the conceptual and practical fundamentals of *geographic data science*, as well as a few of the innovations and important new frames of reference that make geographic data science distinct from its precursors.
 

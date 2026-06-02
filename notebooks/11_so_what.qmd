@@ -1,0 +1,6 @@
+---
+title: So your map is patterned---what next?
+jupyter: gds
+---
+
+{{< lipsum >}}

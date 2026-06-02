@@ -1,0 +1,6 @@
+---
+title: Model Assessment: Fit, Adequacy, and Applicability
+jupyter: gds
+---
+
+{{< lipsum >}}

@@ -2,7 +2,7 @@
 title: "Part II — Spatial Data Analysis"
 ---
 
-## Overview
+## Overview {.unnumbered}
 
 Now that we understand geographic processes and the data that measures them, we will introduce *exploratory spatial data analysis* (ESDA). ESDA augments Tukey's exploratory data analysis, and involves a large collection of techniques used to "orient yourself" (find structure) inside of your dataset. For geographical problems, this often involves understanding whether our data displays a *geographical pattern*. We cover such topics in this part.
 
